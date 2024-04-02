@@ -1,0 +1,33 @@
+body{
+    background-image: url(Find\ your\ Next\ tour!.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    
+    
+}
+
+form{
+
+}
+.ib{
+    border-radius: 2px;
+    width: 100%;
+    height: 20px;
+}
+.p{
+    align-items: center;
+}
+.btn{
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.wraper{
+    background-color: skyblue;
+    width: 30%;
+    
+}
